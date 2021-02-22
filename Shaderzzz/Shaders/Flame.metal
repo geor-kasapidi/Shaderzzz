@@ -1,6 +1,8 @@
 #include <metal_stdlib>
 using namespace metal;
 
+// https://www.shadertoy.com/view/MdX3zr
+
 namespace Flame {
     float noise(float3 p) //Thx to Las^Mercury
     {

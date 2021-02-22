@@ -3,6 +3,8 @@
 
 using namespace metal;
 
+// https://www.shadertoy.com/view/wdjSRc
+
 namespace Craziness {
     matrix_float2x2 m(float a){
         float c = cos(a), s = sin(a);
